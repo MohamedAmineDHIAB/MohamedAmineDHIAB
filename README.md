@@ -1,6 +1,6 @@
 👋 Hi, I’m @MohamedAmineDHIAB ©️
 
-👀 I’m interested in Artificial Intelligence and Data Science
+👀 I’m interested in Artificial Intelligence, Data Science, Cyber-Security, Web-Development. 
 
 🌱 I’m currently deepening my knowledge in these fields
 
