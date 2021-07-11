@@ -4,7 +4,7 @@
 
 🌱 I’m currently deepening my knowledge in these fields
 
-💞️ I’m looking to collaborate on NLP Computer Vision challenges 
+💞️ I’m looking to collaborate on NLP and Computer Vision challenges 
 
 📫 How to reach me :
 
