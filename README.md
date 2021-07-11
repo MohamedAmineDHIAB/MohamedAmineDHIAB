@@ -1,4 +1,4 @@
-👋 Hi, I’m @MohamedAmineDHIAB ©️
+👋 Hi, I’m @MohamedAmineDHIAB 
 
 👀 I’m interested in Artificial Intelligence, Data Science, Cyber-Security, Web-Development. 
 
@@ -13,6 +13,8 @@
 ---> ✉️ aminedhiab2028@gmail.com
 
 ---> 🐦 @mohameddhiab01
+
+©️
 
   
 
