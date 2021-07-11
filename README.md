@@ -1,7 +1,11 @@
 👋 Hi, I’m @MohamedAmineDHIAB ©️
+\\
 👀 I’m interested in Artificial Intelligence and Data Science
-🌱 I’m currently deepening my knowledge in these fields 
+\\
+🌱 I’m currently deepening my knowledge in these fields
+\\
 💞️ I’m looking to collaborate on NLP Computer Vision challenges 
+\\
 📫 How to reach me :
 ---> 📱 +33766847595
 ---> ✉️ aminedhiab2028@gmail.com
