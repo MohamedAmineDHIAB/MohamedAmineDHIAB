@@ -17,9 +17,10 @@
 💞️ I’m looking to collaborate on NLP and Computer Vision challenges 
 
 <p align="center">
+  <kbd>
   
   <img  width="60%" height="350" src="https://user-images.githubusercontent.com/85687148/133894550-7d7bfb73-04f7-4b98-9ba9-179278b6efef.gif">
- 
+  </kbd>
 </p>
 
 
