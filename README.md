@@ -16,7 +16,12 @@
 
 ©️
 
-<iframe src="https://giphy.com/embed/llKJGxQ1ESmac" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-nerd-typing-llKJGxQ1ESmac">via GIPHY</a></p>
+<p align="center">
+  <kbd>
+  <img width="460" height="250" src="https://giphy.com/embed/llKJGxQ1ESmac">
+  </kbd>
+</p>
+
 
   
 
