@@ -16,11 +16,7 @@
 
 ©️
 
-<p align="center">
-  <kbd>
-  <img width="460" height="250" src="https://giphy.com/embed/llKJGxQ1ESmac.gif">
-  </kbd>
-</p>
+![image](https://user-images.githubusercontent.com/85687148/133893916-07afd3bd-3ab9-44eb-adc1-c152a48719bd.png)
 
 
   
