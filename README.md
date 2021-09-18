@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @MohamedAmineDHIAB 
+## 👋 Hi, I’m @MohamedAmineDHIAB 
 
- <font size="1000px"> This is my text number1</font> 
+
 
 
   
@@ -10,13 +10,13 @@
   </kbd>
 </p>
 
+## My interests ?
 
+👀 I’m interested in ***Artificial Intelligence***, ***Data Science***, ***Medical Imaging***, ***NLP***, ***NLU***, ***Cyber-Security***, ***Web-Development***. 
 
-### 👀 I’m interested in Artificial Intelligence, Data Science, Medical Imaging, NLP, NLU, Cyber-Security, Web-Development. 
+🌱 I’m currently deepening my knowledge in these fields.
 
-### 🌱 I’m currently deepening my knowledge in these fields
-
-### 💞️ I’m looking to collaborate on NLP and Computer Vision challenges 
+💞️ I’m looking to collaborate on ***NLP*** and ***Computer Vision*** challenges.
 
 <p align="center">
   <kbd>
