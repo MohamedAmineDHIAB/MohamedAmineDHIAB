@@ -16,7 +16,7 @@
 
 ©️
 
-![image](https://user-images.githubusercontent.com/85687148/133893916-07afd3bd-3ab9-44eb-adc1-c152a48719bd.png)
+![image](https://user-images.githubusercontent.com/85687148/133893916-07afd3bd-3ab9-44eb-adc1-c152a48719bd.gif)
 
 
   
