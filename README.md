@@ -10,7 +10,7 @@
   </kbd>
 </p>
 
-## My interests ?
+## My interests :
 
 👀 I’m interested in ***Artificial Intelligence***, ***Data Science***, ***Medical Imaging***, ***NLP***, ***NLU***, ***Cyber-Security***, ***Web-Development***. 
 
