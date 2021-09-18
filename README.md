@@ -4,8 +4,10 @@
 
 <p align="center">
   
-  <img  width="100%" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
- 
+  <kbd>
+  
+  <img  width="700" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
+  </kbd>
 </p>
 
 
