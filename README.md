@@ -1,6 +1,12 @@
 # 👋 Hi, I’m @MohamedAmineDHIAB 
 
-![image](https://user-images.githubusercontent.com/85687148/133894153-919a5769-c034-4ce6-aa5f-fc2e5d91d0da.png)
+<p align="center">
+  
+  <img  width="100%" height="350" src="https://media3.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=ecf05e47p9iom5hy1ab3tt9owpnu99mwd8hrx7nkpvs09rjq&rid=giphy.gif">
+ 
+</p>
+
+
 
 
 👀 I’m interested in Artificial Intelligence, Data Science, Medical Imaging, NLP, NLU, Cyber-Security, Web-Development. 
