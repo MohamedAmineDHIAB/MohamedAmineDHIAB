@@ -16,7 +16,12 @@
 
 ©️
 
-![image](https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv)
+<p align="center">
+  
+  <img width="460" height="250" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
+ 
+</p>
+
 
 
   
