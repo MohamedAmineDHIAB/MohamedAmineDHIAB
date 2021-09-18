@@ -1,4 +1,4 @@
-👋 Hi, I’m @MohamedAmineDHIAB 
+# 👋 Hi, I’m @MohamedAmineDHIAB 
 
 👀 I’m interested in Artificial Intelligence, Data Science, Medical Imaging, NLP, NLU, Cyber-Security, Web-Development. 
 
@@ -6,13 +6,14 @@
 
 💞️ I’m looking to collaborate on NLP and Computer Vision challenges 
 
-📫 How to reach me :
 
----> 📱 +33766847595
+## 📫 How to reach me :
 
----> ✉️ aminedhiab2028@gmail.com
+---> 📱 `+33766847595`
 
----> 🐦 @mohameddhiab01
+---> ✉️ `aminedhiab2028@gmail.com`
+
+---> 🐦 `@mohameddhiab01`
 
 ©️
 
