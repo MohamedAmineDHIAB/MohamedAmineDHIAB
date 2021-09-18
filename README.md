@@ -18,7 +18,7 @@
 
 <p align="center">
   <kbd>
-  <img width="460" height="250" src="https://giphy.com/embed/llKJGxQ1ESmac">
+  <img width="460" height="250" src="https://giphy.com/embed/llKJGxQ1ESmac.gif">
   </kbd>
 </p>
 
