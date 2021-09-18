@@ -1,7 +1,12 @@
 # 👋 Hi, I’m @MohamedAmineDHIAB 
 
-![image](https://media3.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=790b761180f10b3c7294b49a053b4a0ce3ca5f26f022da3c&rid=giphy.gif&ct=g)
 
+
+<p align="center">
+  
+  <img  width="100%" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
+ 
+</p>
 
 
 
@@ -10,6 +15,12 @@
 🌱 I’m currently deepening my knowledge in these fields
 
 💞️ I’m looking to collaborate on NLP and Computer Vision challenges 
+
+<p align="center">
+  
+  <img  width="100%" height="350" src="https://user-images.githubusercontent.com/85687148/133894550-7d7bfb73-04f7-4b98-9ba9-179278b6efef.gif">
+ 
+</p>
 
 
 ## 📫 How to reach me :
@@ -21,12 +32,6 @@
 ---> 🐦 `@mohameddhiab01`
 
 
-
-<p align="center">
-  
-  <img  width="100%" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
- 
-</p>
 
 
 ©️
