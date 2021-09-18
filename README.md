@@ -6,7 +6,7 @@
   
   <kbd>
   
-  <img  width="700" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
+  <img  width="800" height="350" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
   </kbd>
 </p>
 
