@@ -4,9 +4,9 @@
 
 
   
-
+<p align="center">
   ![github_gif_compressed](https://user-images.githubusercontent.com/85687148/160259642-64811c46-1f0a-4dc1-9ab8-bc04ba09124e.gif)
-
+</p>
 
 
 
