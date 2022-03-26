@@ -4,11 +4,11 @@
 
 
   
-  <kbd>
-  
-  <img  width="900px" height="auto" src="https://64.media.tumblr.com/9ea4ce9dfc649eaff5f972e1a987c260/tumblr_nq32n3TIae1ur2po4o1_500.gifv">
-  </kbd>
-</p>
+
+  ![github_gif_compressed](https://user-images.githubusercontent.com/85687148/160259642-64811c46-1f0a-4dc1-9ab8-bc04ba09124e.gif)
+
+
+
 
 ## My interests :
 
